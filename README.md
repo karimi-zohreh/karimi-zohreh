@@ -35,4 +35,4 @@ Exploring the practical applications of **Machine Learning and LLMs in Data Anal
 
 ---
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on LinkedIn (linkedin.com/in/zohreh-karimi-a21ba2163)
