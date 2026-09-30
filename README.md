@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zohreh Karimi 👋
 
-<!--
-**karimi-zohreh/karimi-zohreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst and BI Developer** with a background in Computer Science.
 
-Here are some ideas to get you started:
+I work with data to build practical analyses, dashboards, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+
+* **Python**
+* **SQL**
+* **Power BI**
+* **Pandas**
+* **Scikit-learn**
+* **Streamlit**
+* **Plotly**
+* **Altair**
+
+### 📊 Areas of Interest
+
+* Data Analysis
+* Business Intelligence
+* Machine Learning
+* Recommender Systems
+* LLMs and their applications in Data Analysis
+
+### 📌 Featured Projects
+
+* **Popularity Recommender System** — A popularity-based recommender system using restaurant rating data.
+* **E-commerce Recommender System** — A content-based recommender system using TF-IDF and cosine similarity.
+* **Customer Data Analysis** — An interactive customer data analysis and visualization application built with Streamlit.
+
+### 📚 Currently Learning
+
+Exploring the practical applications of **Machine Learning and LLMs in Data Analysis**, with a particular interest in recommender systems.
+
+---
+
+📫 Connect with me on LinkedIn
